@@ -6,7 +6,7 @@
 File -> Import -> Git/Projects from Git -> Clone URI
 
 the project url is 
-[https://bitbucket.org/steliosbombai/internet.git](https://bitbucket.org/steliosbombai/internet.git)
+[https://bitbucket.org/steliosbombai/front-end-car-test-centre](https://bitbucket.org/steliosbombai/front-end-car-test-centre)
 
 when the prompt to select the kind of project appears, select *Import as general project*
 
